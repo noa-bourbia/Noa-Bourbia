@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Présentation](URL_de_l'image)](https://linktr.ee/BourbiaNoa)
+[![Présentation](https://github.com/noa-bourbia/Noa-Bourbia/blob/main/Gitp.png)](https://linktr.ee/BourbiaNoa)
 
 
 <!--
