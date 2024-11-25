@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Présentation](URL_de_l'image)](https://linktr.ee/BourbiaNoa)
+
 
 <!--
 **noa-bourbia/Noa-Bourbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
