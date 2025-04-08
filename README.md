@@ -1,5 +1,5 @@
 ## Hi I'm Noa 👋
-[![Présentation](https://github.com/noa-bourbia/Noa-Bourbia/blob/main/Gitp.png)](https://linktr.ee/BourbiaNoa)
+[![Présentation]](https://linktr.ee/BourbiaNoa)
 
 
 # 💻 **Professional Biography**
