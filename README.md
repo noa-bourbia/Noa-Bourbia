@@ -1,44 +1,45 @@
-## Hi I'm Noa 👋
-[![Présentation]](https://linktr.ee/BourbiaNoa)
+# 👋 Salut, moi c'est Noa Bourbia !
 
-
-# 💻 **Professional Biography**
-
-👋 Hi, I'm a **Cybersecurity Student** with a strong passion for technology and problem-solving.  
-I specialize in **computer science**, mastering the following skills and tools:
-- **HTML & CSS** for web development.
-- **Python** for scripting and problem-solving.
-- **PowerShell** basics for automation and system management.
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
----
-
-## 🏆 **Certifications & Achievements**
-- **🏅 Fundamentals of HTML/CSS & Python**
-- 🎓 Currently pursuing a **Cybersecurity specialization**.
+🎓 Étudiant en formation pour devenir **Administrateur Système et Réseau**  
+📍 Basé à Marseille | 🔧 Passionné par l'infra, la cybersécurité et l'automatisation  
+🚀 À la recherche d'une **alternance** en tant que technicien système & réseau
 
 ---
 
-## 🔨 **Highlighted Projects**
-Here are a few of the projects I've worked on:
-1. **Morpion in Python** – Creating a functional Tic-Tac-Toe game (also known as Noughts and Crosses) in Python.
-2. **Interactive Website** – Built with **HTML** and **CSS**, featuring a responsive design and clean user interface
+## 💡 À propos de moi
+
+Actuellement en formation, je développe mes compétences dans l’administration des systèmes Linux et Windows, la gestion réseau (Cisco/Packet Tracer), la virtualisation, et la cybersécurité.  
+J'aime comprendre comment les systèmes fonctionnent en profondeur et je suis motivé par les défis techniques.
+
+Je suis aussi en train de me former sur :
+
+- 🔐 Sécurité des accès, des privilèges, et gestion des droits sous Windows
+- ☁️ Déploiement et supervision d’infrastructure réseau virtuelle (VMs, Hyper-V, etc.)
+- 🧰 Outils : Cisco Packet Tracer, Active Directory, Powershell, bash, Wireshark
 
 ---
 
-## 📊 **Activity & Contributions**
-🚀 **Open Source Projects**: Contributed to beginner-friendly Python repositories.  
+## 🔧 Compétences
+
+- **Systèmes d’exploitation :** Windows Server, Debian/Ubuntu, Kali Linux  
+- **Réseaux :** Subnetting, VLAN, routage statique, DHCP, DNS, pare-feux  
+- **Outils :** Active Directory, PowerShell, Cisco Packet Tracer, VirtualBox, Hyper-V  
+- **Cybersécurité :** Gestion des accès, audit de comptes, principes Zero Trust  
+- **Langages :** Bash, PowerShell, notions de Python
 
 ---
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/noabourbiaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noabourbiaa" /></a></p><br><br>
+## 📄 Mon CV
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noa-bourbia&show_icons=true&locale=en&layout=compact" alt="noa-bourbia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noa-bourbia&show_icons=true&locale=en" alt="noa-bourbia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noa-bourbia&" alt="noa-bourbia" /></p>
+➡️ [Télécharger mon CV ici](https://docs.google.com/document/d/1L73UtONuUgfB0surcNVptRYkQUBRmyp2/edit)
 
 ---
-✨ I’m always looking to collaborate on **cybersecurity** and **automation** projects. Feel free to connect!
 
+## 📫 Me contacter
+
+- ✉️ **Mail :** [noa.bourbia]@laplateforme.io]  
+- 💼 **LinkedIn :** [https://www.linkedin.com/in/noa-bourbia-06325633b/]  
+- 🌍 **Localisation :** Marseille 
+
+---
+
+Merci d’avoir visité mon profil ! 👨‍💻 N’hésite pas à me contacter pour discuter tech ou opportunités !
