@@ -36,7 +36,7 @@ Je suis aussi en train de me former sur :
 
 ## 📫 Me contacter
 
-- ✉️ **Mail :** [noa.bourbia]@laplateforme.io]  
+- ✉️ **Mail :** [noa.bourbia@laplateforme.io]  
 - 💼 **LinkedIn :** [https://www.linkedin.com/in/noa-bourbia-06325633b/]  
 - 🌍 **Localisation :** Marseille 
 
